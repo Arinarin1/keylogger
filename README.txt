@@ -13,3 +13,4 @@ Some uses of a keylogger include:
 Feel free to contribute to fix any problems, and comment any issues (:
 
 *** Please note, this repo is for educational purposes only. No contributors, major or minor, are to fault for any actions done by this program. ***
+
