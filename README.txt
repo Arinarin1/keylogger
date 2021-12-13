@@ -1,4 +1,5 @@
-Once placing this file into a python project, you'll need to create a text file called "log.txt", or a name of your choosing, to store keystrokes in. This text should also be located in the same file folder as "main.py"
+Once placing this file into a python project, you'll need to create a text file called "log.txt", or a name of your choosing, to store keystrokes in. 
+This text file should be located in the same folder as "main.py"
 
 Feel free to make changes and break things!
 
